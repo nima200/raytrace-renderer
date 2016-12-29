@@ -22,4 +22,4 @@ tags in an xml file and interprete them accordingly.
 * Perhaps more features will be added later!
 
 #Credits
-The basic structure of this program was prepared by Mr. Paul Kry (the instructor of the course) as well as the ideas behind the tasks to be completed.
+The basic structure of this program was prepared by **Mr. Paul Kry** (the instructor of the course) as well as the ideas behind the tasks to be completed.
